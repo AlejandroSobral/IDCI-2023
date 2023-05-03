@@ -1,4 +1,4 @@
 Record=TopLevelDocument|FileName=TP1_NodoWiFi_blk_Rev0.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|FileName=TP1_NodoWiFi_Cpu0_Rev0.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|FileName=TP1_NodoWiFi_Cpu1_Rev0.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|FileName=TP1_NodoWiFi_Cpu00_Rev0.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|FileName=TP1_NodoWiFi_Per_Rev0.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|FileName=TP1_NodoWiFi_Pwr_Rev0.SchDoc|SheetNumber=3
