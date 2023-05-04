@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=TP1_NodoWiFi_blk_Rev0.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|FileName=TP1_NodoWiFi_Cpu00_Rev0.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|FileName=TP1_NodoWiFi_Per_Rev0.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|FileName=TP1_NodoWiFi_Pwr_Rev0.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|Designator=Cpu Ports|SchDesignator=Cpu Ports|FileName=TP1_NodoWiFi_Cpu1_Rev0.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=TP1_NodoWiFi_Cpu1_Rev0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|Designator=Fuente y Protecciones|SchDesignator=Fuente y Protecciones|FileName=TP1_NodoWiFi_Pwr_Rev0.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=TP1_NodoWiFi_Pwr_Rev0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|Designator=Periféricos|SchDesignator=Periféricos|FileName=TP1_NodoWiFi_Per_Rev0.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=TP1_NodoWiFi_Per_Rev0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=TP1_NodoWiFi_blk_Rev0.SchDoc|FileName=TP1_NodoWiFi_Cpu0_Rev0.SchDoc|SheetNumber=5
