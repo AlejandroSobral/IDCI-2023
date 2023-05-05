@@ -1,0 +1,61 @@
+Add Component: Footprint Not Found C_0805
+Add Component: Footprint Not Found C_0805
+Add Component: Footprint Not Found C_0805
+Add Component: Footprint Not Found C_0805
+Add Component: Footprint Not Found C_0805
+Add Component: Footprint Not Found C_0805
+Add Component: Footprint Not Found C_0805
+Add Component: Footprint Not Found C_0805
+Add Component: Footprint Not Found Terminal Block
+Add Component: Footprint Not Found PJ-002BH
+Add Component: Footprint Not Found Diode SOD-123
+Add Component: Footprint Not Found Diode SOD-323
+Add Component: Footprint Not Found DO-214AC
+Add Component: Footprint Not Found Diode SOD-123
+Add Component: Footprint Not Found D_0805
+Add Component: Footprint Not Found Polyswitch 1206
+Add Component: Footprint Not Found IC SOT-23
+Add Component: Footprint Not Found R_0805
+Add Component: Footprint Not Found R_0805
+Add Component: Footprint Not Found R_0805
+Add Component: Footprint Not Found R_0805
+Add Component: Footprint Not Found R_0805
+Add Component: Footprint Not Found R_0805
+Add Component: Footprint Not Found R_0805
+Add Component: Footprint Not Found R_0805
+Add Component: Footprint Not Found R_0805
+Add Component: Footprint Not Found Relay 24V
+Add Component: Footprint Not Found ESP12F
+Add Component: Footprint Not Found IC SOT23-6
+Added Net: Name=+3.3V
+Added Net: Name=+24V
+Added Net: Name=+Vin
+Added Net: Name=Com1
+Added Net: Name=GND
+Added Net: Name=mcu_OUT0
+Added Net: Name=mcu_RX1
+Added Net: Name=mcu_TX1
+Added Net: Name=NA1
+Added Net: Name=NC1
+Added Net: Name=NetC4_1
+Added Net: Name=NetC4_2
+Added Net: Name=NetC16_1
+Added Net: Name=NetC17_1
+Added Net: Name=NetC19_1
+Added Net: Name=NetC20_1
+Added Net: Name=NetC21_1
+Added Net: Name=NetD1_1
+Added Net: Name=NetD2_2
+Added Net: Name=NetD6_1
+Added Net: Name=NetQ1_1
+Added Net: Name=NetR1_1
+Added Net: Name=NetR2_1
+Added Net: Name=NetR3_1
+Added Net: Name=NRST
+Added Net: Name=RST Wifi
+Added Net: Name=SWCLK
+Added Net: Name=SWIO
+Added Net: Name=VFB
+Added Class: Name=Cpu - Clock, Jtag, Power
+Added Class: Name=Fuente y Protecciones
+Added Class: Name=Periféricos

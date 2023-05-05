@@ -1,0 +1,4 @@
+Added Component: Designator=R12(R_0805)
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=SWCLK Pin=R12-2
+Added Member To Class: ClassName=Cpu - Clock, Jtag, Power Member=Component R12 10K 5%
