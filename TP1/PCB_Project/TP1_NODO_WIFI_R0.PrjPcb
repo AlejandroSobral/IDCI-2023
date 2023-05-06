@@ -235,6 +235,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQVXVTPK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TP1_NODO_WIFI_R0\Design Rule Check - TP1_NodoWiFi_Rev0.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
