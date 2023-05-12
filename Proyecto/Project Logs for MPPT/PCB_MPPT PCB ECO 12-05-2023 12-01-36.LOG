@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=TP5 NewDesignator=VCC
+Added Component: Designator=ASM1(Fiducial)
+Added Component: Designator=ASM3(Fiducial)
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM1 Fiducial
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM3 Fiducial
+Added Room: Name=Buck2
+Added Room: Name=Buck
+Added Room: Name=Control
+Added Room: Name=Fuente
+Added Room: Name=Microcontrolador

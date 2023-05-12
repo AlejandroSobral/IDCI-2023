@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Vbat Pin=U5-3
+Removed Pin From Net: NetName=Vbat Pin=U5-4
+Added Component: Designator=ASM1(Fiducial)
+Added Component: Designator=D4(SOD123)
+Added Component: Designator=NT1(NetTie)
+Added Pin To Net: NetName=Vbat Pin=D4-2
+Added Pin To Net: NetName=GNDS Pin=NT1-1
+Added Pin To Net: NetName=GND Pin=NT1-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=U5-3
+Added Pin To Net: NetName=NetD4_1 Pin=U5-4
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM1 Fiducial
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM3 Fiducial
+Added Member To Class: ClassName=Buck2 Member=Component D4 DIODO
+Added Member To Class: ClassName=Buck2 Member=Component L3 INDUCTOR
+Added Member To Class: ClassName=Control Member=Component NT1 NetTie
+Added Room: Name=Buck2
+Added Room: Name=Buck
+Added Room: Name=Control
+Added Room: Name=Fuente
+Added Room: Name=Microcontrolador

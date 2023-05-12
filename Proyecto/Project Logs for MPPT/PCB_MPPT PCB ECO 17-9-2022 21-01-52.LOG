@@ -1,0 +1,247 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=Vo Pin=C16-1
+Removed Pin From Net: NetName=GNDS Pin=C16-2
+Removed Pin From Net: NetName=GNDS Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=DB1-4
+Removed Pin From Net: NetName=Vo Pin=J5-1
+Removed Pin From Net: NetName=GNDS Pin=J5-2
+Removed Pin From Net: NetName=Vo Pin=L1-2
+Removed Pin From Net: NetName=PWM Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=+12V Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=+3.3V Pin=U3-2
+Removed Pin From Net: NetName=+3.3V Pin=U3-4
+Removed Pin From Net: NetName=ADC_Vo Pin=U4-12
+Removed Pin From Net: NetName=ADC_Icc Pin=U4-14
+Removed Pin From Net: NetName=ADC_Vcc Pin=U4-15
+Removed Member From Class: ClassName=Buck Member=C16
+Removed Member From Class: ClassName=Buck Member=D2
+Removed Member From Class: ClassName=Fuente Member=DB1
+Removed Member From Class: ClassName=Fuente Member=J1
+Removed Member From Class: ClassName=Control Member=J5
+Removed Member From Class: ClassName=Buck Member=L1
+Removed Member From Class: ClassName=Fuente Member=U2
+Removed Member From Class: ClassName=Fuente Member=U3
+Change Component Footprint: Designator=L1 Old Footprint=BOBINA New Footprint=WE-PD SERIES
+Change Component Footprint: Designator=C4 Old Footprint=CAPPOL1210 New Footprint=0805
+Change Component Footprint: Designator=C5 Old Footprint=CAPPOL1210 New Footprint=0805
+Change Component Footprint: Designator=C3 Old Footprint=CAPPOL1210 New Footprint=CAPSMD4.3x4.3
+Change Component Footprint: Designator=C2 Old Footprint=CAPPOL1210 New Footprint=CAPSMD8x8.3
+Change Component Footprint: Designator=Q1 Old Footprint=D2PAK - Alternativo New Footprint=TO-220 V
+Change Component Footprint: Designator=U1 Old Footprint=DPAK New Footprint=SOT223
+Change Component Footprint: Designator=D2 Old Footprint=SOD123 New Footprint=DO-214AC
+Change Component Comment : Designator=C4 Old Comment=10uF 35V Tantallum 1210 New Comment=0.1uF 25V 0805
+Change Component Comment : Designator=C5 Old Comment=10uF 35V Tantallum 1210 New Comment=0.1uF 25V 0805
+Change Component Comment : Designator=C3 Old Comment=10uF 35V Tantallum 1210 New Comment=10UF 20% 35V
+Change Component Comment : Designator=C2 Old Comment=10uF 35V Tantallum 1210 New Comment=100UF 35V 
+Change Component Comment : Designator=C1 Old Comment=100uF 35/50V New Comment=100UF 35V 
+Change Component Comment : Designator=D2 Old Comment=DIODO New Comment=M7
+Change Component Comment : Designator=L1 Old Comment=INDUCTOR New Comment=220UHY 
+Change Component Comment : Designator=U1 Old Comment=MC78M12CDT New Comment=1117-3.3V
+Change Component Comment : Designator=Q1 Old Comment=MOSFET N New Comment=IRF530
+Change Component Comment : Designator=R6 Old Comment=RES New Comment=18k 5% 0805
+Change Component Comment : Designator=R8 Old Comment=RES New Comment=25k 5% 0805
+Change Component Comment : Designator=R5 Old Comment=RES New Comment=100k 5% 0805
+Change Component Comment : Designator=R7 Old Comment=RES New Comment=100k 5% 0805
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2 NewDesignator=R7
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R8 NewDesignator=R11
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Change Component Designator: OldDesignator=U5 NewDesignator=U3
+Change component parameters: Designator = "U1" ("U1"); Footprint = "DPAK"; UniqueID = "\HCXVGWFQ\DUEBFXGZ" ("\HCXVGWFQ\DUEBFXGZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.linear.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://cds.linear.com/docs/en/datasheet/1117fd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://cds.linear.com/docs/en/packaging/SOT_3_05-08-1630.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Discrete Pass Element"; Value = "no"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dropout Voltage(V)"; Value = "1.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Iout(mA)"; Value = "800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isupply(mA)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "3.3 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Plastic SOT-223, 3.505 x 6.505 mm Body, Pitch 2.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "ST-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Jun-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "LT1117CST-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSRR(dB)"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "LT1117CST-3.3-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "57M1797"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vin Max(V)"; Value = "15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vin Min(V)"; Value = "2.45"; VariantName = "[No Variations]"
+Added Component: Designator=ASM1(Fiducial)
+Added Component: Designator=ASM2(Fiducial)
+Added Component: Designator=ASM3(Fiducial)
+Added Component: Designator=ASM4(Fiducial)
+Added Component: Designator=C6(CAPSMD4.3x4.3)
+Added Component: Designator=C17(0805)
+Added Component: Designator=C18(0805)
+Added Component: Designator=C19(0805)
+Added Component: Designator=C20(0805)
+Added Component: Designator=C21(0805)
+Added Component: Designator=C22(0805)
+Added Component: Designator=C23(1206)
+Added Component: Designator=DZ1(DO41)
+Added Component: Designator=DZ2(DO41)
+Added Component: Designator=J4(BORNERA3_DegsonH)
+Added Component: Designator=L2(BOBINA)
+Added Component: Designator=Q2(TO-220 V)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R12(0805)
+Added Component: Designator=R13(0805)
+Added Component: Designator=R14(0805)
+Added Component: Designator=R15(0805)
+Added Component: Designator=U4(SOIC16W)
+Added Component: Designator=U5(6-XFDFN)
+Added Pin To Net: NetName=Vo Pin=C1-1
+Added Pin To Net: NetName=GNDS Pin=C1-2
+Added Pin To Net: NetName=+12V Pin=C3-1
+Added Pin To Net: NetName=+12V Pin=C4-1
+Added Pin To Net: NetName=+3.3V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=ADC_Vcc Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=ADC_Vo Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=Vo Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=+12V Pin=D2-1
+Added Pin To Net: NetName=GND Pin=DZ1-1
+Added Pin To Net: NetName=ADC_Vcc Pin=DZ1-2
+Added Pin To Net: NetName=GND Pin=DZ2-1
+Added Pin To Net: NetName=ADC_Vo Pin=DZ2-2
+Added Pin To Net: NetName=GNDS Pin=J4-1
+Added Pin To Net: NetName=Vo Pin=J4-3
+Added Pin To Net: NetName=Vo Pin=L1-1
+Added Pin To Net: NetName=+12V Pin=L1-2
+Added Pin To Net: NetName=Vo Pin=L2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=ADC_Vo Pin=R1-2
+Added Pin To Net: NetName=ADC_Icc Pin=R2-2
+Added Pin To Net: NetName=ADC_Vcc Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Pin To Net: NetName=+3.3V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=+12V Pin=U4-3
+Added Pin To Net: NetName=+12V Pin=U4-11
+Added Pin To Net: NetName=PWM Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=PWM Pin=U5-2
+Added Pin To Net: NetName=PWM Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=+3.3V Pin=U5-6
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC14_1
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=C19-1
+Added Pin To Net: NetName=NetC18_1 Pin=L2-1
+Added Pin To Net: NetName=NetC18_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC18_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC18_1 Pin=R13-1
+Added Pin To Net: NetName=NetC18_1 Pin=U4-6
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=C19-2
+Added Pin To Net: NetName=NetC18_2 Pin=D2-2
+Added Pin To Net: NetName=NetC18_2 Pin=U4-7
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R12-2
+Added Pin To Net: NetName=NetC20_2 Pin=U4-8
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=R14-2
+Added Pin To Net: NetName=NetC22_2 Pin=U4-1
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R12-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R13-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R14-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R15-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U2-12
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-14
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-15
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetU4_14 Pin=U4-14
+Added Pin To Net: NetName=NetU4_14 Pin=U5-4
+Added Net: Name=NetU4_14
+Added Pin To Net: NetName=PWM_2 Pin=J4-2
+Added Pin To Net: NetName=PWM_2 Pin=U2-41
+Added Net: Name=PWM_2
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM1 Fiducial
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM2 Fiducial
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM3 Fiducial
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM4 Fiducial
+Added Member To Class: ClassName=Fuente Member=Component C2 100UF 35V 
+Added Member To Class: ClassName=Fuente Member=Component C6 10UF 20% 35V
+Added Member To Class: ClassName=Control Member=Component C17 0.1uF
+Added Member To Class: ClassName=Control Member=Component C18 0.1uF
+Added Member To Class: ClassName=Control Member=Component C19 0.1uF
+Added Member To Class: ClassName=Control Member=Component C20 0.1uF
+Added Member To Class: ClassName=Control Member=Component C21 0.1uF
+Added Member To Class: ClassName=Control Member=Component C22 0.1uF
+Added Member To Class: ClassName=Buck Member=Component C23 CAP
+Added Member To Class: ClassName=Control Member=Component D2 M7
+Added Member To Class: ClassName=Control Member=Component DZ1 3V
+Added Member To Class: ClassName=Control Member=Component DZ2 3V
+Added Member To Class: ClassName=Control Member=Component J4 BORNERA 3
+Added Member To Class: ClassName=Fuente Member=Component L1 220UHY 
+Added Member To Class: ClassName=Buck Member=Component L2 INDUCTOR
+Added Member To Class: ClassName=Buck Member=Component Q2 IRF530
+Added Member To Class: ClassName=Microcontrolador Member=Component R5 1K 5% 0805
+Added Member To Class: ClassName=Microcontrolador Member=Component R6 1K 5% 0805
+Added Member To Class: ClassName=Microcontrolador Member=Component R7 1K 5% 0805
+Added Member To Class: ClassName=Buck Member=Component R12 10 5% 0805
+Added Member To Class: ClassName=Buck Member=Component R13 1k 5% 0805
+Added Member To Class: ClassName=Buck Member=Component R14 10 5% 0805
+Added Member To Class: ClassName=Buck Member=Component R15 1k 5% 0805
+Added Member To Class: ClassName=Control Member=Component U4 IR2110 16
+Added Member To Class: ClassName=Control Member=Component U5 74LVC1G14FW4-7
+Added Room: Name=Buck
+Added Room: Name=Control
+Added Room: Name=Fuente
+Added Room: Name=Microcontrolador
