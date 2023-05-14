@@ -1,0 +1,7 @@
+Added Component: Designator=ASM1(Fiducial)
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM1 Fiducial
+Added Room: Name=Buck2
+Added Room: Name=Buck
+Added Room: Name=Control
+Added Room: Name=Fuente
+Added Room: Name=Microcontrolador
