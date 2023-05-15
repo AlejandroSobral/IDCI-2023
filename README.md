@@ -13,7 +13,7 @@
     
 ## Proyecto final   
 
-* MPPT para IDCI 2023 (Sin comenzar).
+* MPPT para IDCI 2023 (Still working)
 
 
 
