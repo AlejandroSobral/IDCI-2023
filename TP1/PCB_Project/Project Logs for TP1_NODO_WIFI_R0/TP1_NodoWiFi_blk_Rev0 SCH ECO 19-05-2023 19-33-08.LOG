@@ -1,0 +1,4 @@
+Change Component Comment: Designator=X1 Old Comment=ECS-80-10-30B-CKM-TR New Comment=AB26TRQ-32.768KHZ-T
+Change Pin Designator/Name:  Old Designator=X1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=X1-2 Old Name=2 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=X1-3 Old Name=3 New Designator =1 New Name=1

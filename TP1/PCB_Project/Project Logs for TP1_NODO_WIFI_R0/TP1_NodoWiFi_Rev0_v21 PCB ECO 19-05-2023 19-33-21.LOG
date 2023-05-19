@@ -1,0 +1,7 @@
+Change DesignItemId: Component "X1" not found
+Change Description: Unknown Component : X1
+Add Pin To Net: Unknown Pin: Pin X1-4
+Added Member To Class: ClassName=Fuente y Protecciones Member=Component C6 220uF 35V Elect
+Added Member To Class: ClassName=Fuente y Protecciones Member=Component L1 LQH44PN220MP0L
+Added Member To Class: ClassName=Fuente y Protecciones Member=Component R7 30K9 1%
+Added Member To Class: ClassName=Periféricos Member=Component U1 ESP12F

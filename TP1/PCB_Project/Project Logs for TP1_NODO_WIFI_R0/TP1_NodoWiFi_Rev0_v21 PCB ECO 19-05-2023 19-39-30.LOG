@@ -1,0 +1,8 @@
+Change Component Comment : Designator=C16 Old Comment=4.7pF 50V COG New Comment=22pF 50V COG
+Change Component Comment : Designator=C17 Old Comment=4.7pF 50V COG New Comment=22pF 50V COG
+Added Component: Designator=X1(ABM3C)
+Added Pin To Net: NetName=NetC16_1 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=NetC17_1 Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Member To Class: ClassName=Cpu - Clock, Jtag, Power Member=Component X1 ECS-80-10-30B-CKM-TR
