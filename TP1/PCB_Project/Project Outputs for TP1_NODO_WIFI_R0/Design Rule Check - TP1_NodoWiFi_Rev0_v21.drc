@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Alejandro\OneDrive - UTN.BA\UTN_2023_English\IDCI\Ale 2023 - Proyecto\Repo\IDCI-2023\TP1\PCB_Project\TP1_NodoWiFi_Rev0_v21.PcbDoc
-Date     : 19/05/2023
-Time     : 17:20:36
+Date     : 29/05/2023
+Time     : 11:07:33
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -17,7 +17,7 @@ Rule Violations :0
 
 Processing Rule : Routing Via (MinHoleWidth=16mil) (MaxHoleWidth=25mil) (PreferredHoleWidth=16mil) (MinWidth=32mil) (MaxWidth=50mil) (PreferedWidth=32mil) (All)
    Violation between Routing Via Style: Via (1515.748mil,1141.732mil) from Top Layer to Bottom Layer Actual Size : 50mil Actual Hole Size : 28mil
-   Violation between Routing Via Style: Via (359.252mil,433.071mil) from Top Layer to Bottom Layer Actual Size : 64mil Actual Hole Size : 32mil
+   Violation between Routing Via Style: Via (354.331mil,452.756mil) from Top Layer to Bottom Layer Actual Size : 64mil Actual Hole Size : 32mil
 Rule Violations :2
 
 Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Prefered=15mil) (All)
@@ -43,4 +43,4 @@ Rule Violations :0
 
 Violations Detected : 7
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
