@@ -1,0 +1,15 @@
+Source PCB Design TP1_NodoWiFi_Panelizado.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TP1_NODO_WIFI_R0.PrjPcb]
+   Generated File[TP1_NodoWiFi_Panelizado-RoundHoles.TXT]
+   Generated File[TP1_NodoWiFi_Panelizado-SlotHoles.TXT]
+   Generated File[TP1_NodoWiFi_Panelizado.LDP]
+   Generated File[TP1_NodoWiFi_Panelizado.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:16:57 On 03/06/2023

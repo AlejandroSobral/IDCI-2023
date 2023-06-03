@@ -1,0 +1,46 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Alejandro\OneDrive - UTN.BA\UTN_2023_English\IDCI\Ale 2023 - Proyecto\Repo\IDCI-2023\TP1\PCB_Project\TP1_NodoWiFi_Rev0_v21.PcbDoc
+Date     : 29/05/2023
+Time     : 11:07:33
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Preferred=9mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=16mil) (MaxHoleWidth=25mil) (PreferredHoleWidth=16mil) (MinWidth=32mil) (MaxWidth=50mil) (PreferedWidth=32mil) (All)
+   Violation between Routing Via Style: Via (1515.748mil,1141.732mil) from Top Layer to Bottom Layer Actual Size : 50mil Actual Hole Size : 28mil
+   Violation between Routing Via Style: Via (354.331mil,452.756mil) from Top Layer to Bottom Layer Actual Size : 64mil Actual Hole Size : 32mil
+Rule Violations :2
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Prefered=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad CN2-1(295.275mil,236.22mil) on Multi-Layer Actual Slot Hole Width = 137.795mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad CN2-2(59.055mil,236.22mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad CN2-3(177.165mil,51.181mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+   Violation between Hole Size Constraint: (129.921mil > 100mil) Pad Free-2(3208.662mil,1200.787mil) on Multi-Layer Actual Hole Size = 129.921mil
+   Violation between Hole Size Constraint: (129.921mil > 100mil) Pad Free-2(964.567mil,98.425mil) on Multi-Layer Actual Hole Size = 129.921mil
+Rule Violations :5
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Waived Violations : 0
+Time Elapsed        : 00:00:01

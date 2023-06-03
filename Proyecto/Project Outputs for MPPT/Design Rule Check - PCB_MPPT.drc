@@ -1,13 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Alejandro\OneDrive - UTN.BA\UTN_2023_English\IDCI\Ale 2023 - Proyecto\Repo\IDCI-2023\Proyecto\PCB_MPPT.PcbDoc
 Date     : 03/06/2023
-Time     : 9:31:48
-
-WARNING: Multilayer Pads with 0 size Hole found
-   Pad ASM5-0(5661.417mil,4862.205mil) on Multi-Layer
-   Pad ASM4-0(5661.417mil,137.795mil) on Multi-Layer
-   Pad ASM2-0(149.606mil,137.795mil) on Multi-Layer
-   Pad ASM3-0(149.606mil,4862.205mil) on Multi-Layer
+Time     : 11:19:20
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0

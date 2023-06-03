@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GNDS Pin=J4-1
+Removed Pin From Net: NetName=PWM_2 Pin=J4-2
+Removed Pin From Net: NetName=Vo Pin=J4-3
+Removed Pin From Net: NetName=ADC_Vo Pin=R1-2
+Removed Pin From Net: NetName=ADC_Icc Pin=R2-2
+Removed Pin From Net: NetName=ADC_Vcc Pin=R3-2
+Change Component Footprint: Designator=J4 Old Footprint=BORNERA3_DegsonH New Footprint=Bornera2_DegsonH
+Change Component Comment : Designator=C1 Old Comment=100UF 35V  New Comment=100UF 35V
+Change Component Comment : Designator=C2 Old Comment=100UF 35V  New Comment=100UF 35V
+Change Component Comment : Designator=L1 Old Comment=220UHY  New Comment=220UHY
+Change Component Comment : Designator=J4 Old Comment=BORNERA 3 New Comment=BORNERA 2
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Added Component: Designator=P1(idc10_90)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.harting.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Selection Guide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.harting.com/imperia/md/content/steckverbinderundsystemkomponenten/folder/interface_engl_chapter_09.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Corresponds to nominal value."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "03-Jun-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "918510x323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Nov-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805)
+Added Component: Designator=R5(0805)
+Added Pin To Net: NetName=Vo Pin=J4-1
+Added Pin To Net: NetName=GNDS Pin=J4-2
+Added Pin To Net: NetName=Vo Pin=P1-1
+Added Pin To Net: NetName=Vo Pin=P1-2
+Added Pin To Net: NetName=PWM_2 Pin=P1-3
+Added Pin To Net: NetName=PWM_2 Pin=P1-4
+Added Pin To Net: NetName=GNDS Pin=P1-9
+Added Pin To Net: NetName=GNDS Pin=P1-10
+Added Pin To Net: NetName=ADC_Vo Pin=R1-2
+Added Pin To Net: NetName=ADC_Icc Pin=R2-2
+Added Pin To Net: NetName=ADC_Vcc Pin=R3-2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR4_1
+Added Pin To Net: NetName=ADC_I_Exp Pin=P1-5
+Added Pin To Net: NetName=ADC_I_Exp Pin=P1-6
+Added Pin To Net: NetName=ADC_I_Exp Pin=R4-2
+Added Net: Name=ADC_I_Exp
+Added Pin To Net: NetName=ADC_V_Exp Pin=P1-7
+Added Pin To Net: NetName=ADC_V_Exp Pin=P1-8
+Added Pin To Net: NetName=ADC_V_Exp Pin=R5-2
+Added Net: Name=ADC_V_Exp
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U2-11
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U2-16
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=Control Member=Component P1 IDC10
+Added Member To Class: ClassName=Microcontrolador Member=Component R8 1K 5% 0805
+Added Member To Class: ClassName=Microcontrolador Member=Component R9 1K 5% 0805
