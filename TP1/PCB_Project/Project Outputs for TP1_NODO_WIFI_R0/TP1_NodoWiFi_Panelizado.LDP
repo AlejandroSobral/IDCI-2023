@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Alejandro\OneDrive - UTN.BA\UTN_2023_English\IDCI\Ale 2023 - Proyecto\Repo\IDCI-2023\TP1\PCB_Project\TP1_NodoWiFi_Panelizado.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=tp1_nodowifi_panelizado-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=tp1_nodowifi_panelizado-slotholes.txt|DrillLayers=gtl,gbl

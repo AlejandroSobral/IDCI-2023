@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CKONPSCM
 
 [Document2]
-DocumentPath=TP1_NodoWiFi_Rev0_v21.PcbDoc
+DocumentPath=TP1_NodoWiFi_Rev0_v22_panel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

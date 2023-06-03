@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TP1_NodoWiFi_Panelizado.PcbDoc   03/06/2023  10:16:57
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TP1_NodoWiFi_Panelizado-RoundHoles.TXT
+ASCII SlotHoles File : TP1_NodoWiFi_Panelizado-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             156       PTH        49.94inch (1268.58mm)
+T2      28mil (0.711mm)                                           Round             4         PTH        16.24inch (412.48mm)
+T3      30mil (0.762mm)                                           Round             4         PTH        16.32inch (414.60mm)
+T4      32mil (0.813mm)                                           Round             4         PTH        10.37inch (263.36mm)
+T5      36mil (0.914mm)                                           Round             8         PTH        10.45inch (265.52mm)
+T6      39mil (1mm)                                               Round             20        PTH        14.04inch (356.57mm)
+T7      39mil (1mm)                                               Slot              12        PTH        26.30inch (668.02mm)
+T8      51mil (1.3mm)                                             Round             32        PTH        30.45inch (773.50mm)
+T9      130mil (3.3mm)                                            Round             8         PTH        17.61inch (447.29mm)
+T10     157mil (4mm)                                              Round             2         PTH        8.04inch (204.10mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              250
+
+Total Processing Time (hh:mm:ss) : 00:00:00
