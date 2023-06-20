@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PWM_2 Pin=uC - PWM H-1
+Removed Pin From Net: NetName=PWM_1 Pin=uC - PWM L-1
+Removed Member From Class: ClassName=Control Member=uC - PWM H
+Removed Member From Class: ClassName=Control Member=uC - PWM L
+Added Room: Name=Buck2
+Added Room: Name=Control
+Added Room: Name=Fuente
+Added Room: Name=Microcontrolador
