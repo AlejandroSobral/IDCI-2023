@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC Pin=Designator9-1
+Removed Pin From Net: NetName=GNDS Pin=Designator9-2
+Change Component Footprint: Designator=L2 Old Footprint=BOBINA New Footprint=IND_HCTI-220-5.8
+Change Component Footprint: Designator=L3 Old Footprint=BOBINA New Footprint=IND_HCTI-220-5.8
+Change Component Footprint: Designator=T1 Old Footprint=TO92 New Footprint=SOT23-3
+Change Component Footprint: Designator=T2 Old Footprint=TO92 New Footprint=SOT23-3
+Change Component Footprint: Designator=T3 Old Footprint=TO92 New Footprint=SOT23-3
+Change Component Comment : Designator=R25 Old Comment=10 5% 0805 New Comment=1K 5% 0805
+Change Component Comment : Designator=U3 Old Comment=MLX91221KDC New Comment=TMCS1108A4BQDR
+Change Component Comment : Designator=U5 Old Comment=MLX91221KDC New Comment=TMCS1108A4BQDR
+Added Component: Designator=C0(CAPSMD8x8.3)
+Added Pin To Net: NetName=VCC Pin=C0-1
+Added Pin To Net: NetName=GNDS Pin=C0-2
+Added Member To Class: ClassName=Control Member=Component C0 1mF
+Added Member To Class: ClassName=Buck Member=Component L2 INDUCTOR
+Added Room: Name=Buck2
+Added Room: Name=Buck
+Added Room: Name=Control
+Added Room: Name=Fuente
+Added Room: Name=Microcontrolador

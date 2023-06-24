@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=NT1-2
+Removed Member From Class: ClassName=Control Member=NT1
+Added Component: Designator=ASM1(Fiducial)
+Added Pin To Net: NetName=GND Pin=C0-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=GND Pin=T3-3
+Added Pin To Net: NetName=GND Pin=TVS2-2
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM1 Fiducial
+Added Room: Name=Buck2
+Added Room: Name=Buck
+Added Room: Name=Control
+Added Room: Name=Fuente
+Added Room: Name=Microcontrolador

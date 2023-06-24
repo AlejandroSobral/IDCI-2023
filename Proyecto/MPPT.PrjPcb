@@ -168,7 +168,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PLCXNKDY
 
 [Document8]
-DocumentPath=PCB_MPPT.PcbDoc
+DocumentPath=PCB_MPPT_v2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
