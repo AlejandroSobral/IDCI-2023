@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_MPPT_v2_PANELIZADO.PcbDoc   10/07/2023  15:38:42
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_MPPT_v2_PANELIZADO.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             198       PTH        60.34inch (1532.66mm)
+T2      30mil (0.762mm)                                           Round             2         PTH        3.94inch (100.00mm)
+T3      40mil (1.016mm)                                           Round             34        PTH        25.68inch (652.22mm)
+T4      50mil (1.27mm)                                            Round             8         PTH        14.46inch (367.21mm)
+T5      59mil (1.5mm)                                             Round             8         PTH        13.90inch (353.03mm)
+T6      130mil (3.3mm)                                            Round             8         PTH        22.96inch (583.26mm)
+T7      157mil (4mm)                                              Round             2         PTH        7.26inch (184.44mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              260
+
+Total Processing Time (hh:mm:ss) : 00:00:00

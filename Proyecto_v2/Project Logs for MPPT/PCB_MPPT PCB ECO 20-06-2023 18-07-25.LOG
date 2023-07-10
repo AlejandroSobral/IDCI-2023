@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=ADC_Vcc Pin=ADC VCC-1
-Removed Pin From Net: NetName=NetC19_1 Pin=VS-1
-Removed Member From Class: ClassName=Control Member=ADC VCC
-Removed Member From Class: ClassName=Buck Member=VS

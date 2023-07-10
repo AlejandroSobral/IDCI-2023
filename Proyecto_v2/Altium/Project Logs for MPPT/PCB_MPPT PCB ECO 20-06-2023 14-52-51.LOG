@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=D4 Old Footprint=SMBK New Footprint=SMPA-DIODE
+Change Component Comment : Designator=C1 Old Comment=0.1uF 25V New Comment=0.1uF 25V X7R
+Change Component Comment : Designator=C5 Old Comment=0.1uF 25V New Comment=0.1uF 25V X7R
+Change Component Comment : Designator=C6 Old Comment=0.1uF 25V New Comment=0.1uF 25V X7R
+Change Component Comment : Designator=C10 Old Comment=0.1uF 25v X7R New Comment=0.1uF 10v X7R
+Change Component Comment : Designator=C11 Old Comment=0.1uF 25v X7R New Comment=0.1uF 10v X7R
+Change Component Comment : Designator=C12 Old Comment=0.1uF 25v X7R New Comment=0.1uF 10v X7R
+Change Component Comment : Designator=C13 Old Comment=0.1uF 25v X7R New Comment=0.1uF 10v X7R
+Change Component Comment : Designator=C14 Old Comment=0.1uF 25v X7R New Comment=0.1uF 10v X7R
+Change Component Comment : Designator=C4 Old Comment=10UF 20% 35V New Comment=10uF 35V Electrolítico
+Change Component Comment : Designator=C7 Old Comment=10UF 20% 35V New Comment=10uF 35V Electrolítico
+Change Component Comment : Designator=Y1 Old Comment=32.768 kHz New Comment=32.768 kHz - ABS07
+Change Component Comment : Designator=C2 Old Comment=100UF 35V New Comment=100uF 35V Electrolítico
+Change Component Comment : Designator=C3 Old Comment=100UF 35V New Comment=100uF 35V Electrolítico
+Change Component Comment : Designator=J3 Old Comment=BORNERA 2 New Comment=2EDGR-5.08-02P
+Change Component Comment : Designator=J4 Old Comment=BORNERA 2 New Comment=2EDGR-5.08-02P
+Change Component Comment : Designator=J5 Old Comment=CON2 New Comment=Pines 2.54mm
+Change Component Comment : Designator=J6 Old Comment=CON2 New Comment=Pines 2.54mm
+Change Component Comment : Designator=J7 Old Comment=CON3 New Comment=Pines 2.54mm
+Change Component Comment : Designator=U4 Old Comment=IR2110S - SOIC New Comment=IR2110S
+Change Component Comment : Designator=D2 Old Comment=M7 New Comment=1A - 1000V - MLA621433055
+Change Component Comment : Designator=L1 Old Comment=SRR1210-101M  New Comment=100 uH - SRR1210-101M 
+Change Component Description : Designator=C0 Old Description=Capacitores electrolíticos de aluminio 100 µF 35 V Radial, encapsulado - terminales SMD 1000 h a 105°C New Description=Capacitores electrolíticos de aluminio 100 µF 35 V Radial, encapsulado - terminales SMD 1000 h a 105°C. MLA621433055
+Added Component: Designator=ASM1(Fiducial)
+Added Member To Class: ClassName=Microcontrolador Member=Component ASM1 Fiducial
+Added Room: Name=Buck2
+Added Room: Name=Buck
+Added Room: Name=Control
+Added Room: Name=Fuente
+Added Room: Name=Microcontrolador

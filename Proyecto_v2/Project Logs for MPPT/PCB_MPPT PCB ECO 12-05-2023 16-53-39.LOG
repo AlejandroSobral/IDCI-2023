@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=J2 Old Footprint=0805 New Footprint=JUMPER2
-Added Component: Designator=ASM1(Fiducial)
-Added Member To Class: ClassName=Microcontrolador Member=Component ASM1 Fiducial
-Added Member To Class: ClassName=Buck2 Member=Component D4 DIODO
-Added Room: Name=Buck2
-Added Room: Name=Buck
-Added Room: Name=Control
-Added Room: Name=Fuente
-Added Room: Name=Microcontrolador

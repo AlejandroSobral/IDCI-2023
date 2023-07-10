@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=Fuente Member=C7
+Removed Member From Class: ClassName=Microcontrolador Member=C15
+Removed Member From Class: ClassName=Control Member=J2
+Removed Member From Class: ClassName=Microcontrolador Member=R8
+Removed Member From Class: ClassName=Microcontrolador Member=R9
+Removed Member From Class: ClassName=Microcontrolador Member=R10
+Change Component Footprint: Designator=DZ1 Old Footprint=DO41 New Footprint=sod123
+Change Component Footprint: Designator=DZ2 Old Footprint=DO41 New Footprint=sod123
+Added Member To Class: ClassName=Fuente Member=Component C6 10UF 20% 35V
+Added Member To Class: ClassName=Microcontrolador Member=Component C8 18pF
+Added Member To Class: ClassName=Microcontrolador Member=Component C10 0.1uF
+Added Member To Class: ClassName=Microcontrolador Member=Component C12 0.1uF
+Added Member To Class: ClassName=Microcontrolador Member=Component C14 0.1uF
+Added Member To Class: ClassName=Control Member=Component C16 0.1uF
+Added Member To Class: ClassName=Microcontrolador Member=Component J1 JTAG/SWD Programmer
+Added Member To Class: ClassName=Control Member=Component J3 BORNERA 2
+Added Member To Class: ClassName=Control Member=Component J4 BORNERA 3
+Added Member To Class: ClassName=Microcontrolador Member=Component R1 10K 5% 0805
+Added Member To Class: ClassName=Microcontrolador Member=Component R2 10K 5% 0805
+Added Member To Class: ClassName=Microcontrolador Member=Component R3 10K 5% 0805
+Added Member To Class: ClassName=Microcontrolador Member=Component R5 1K 5% 0805
+Added Member To Class: ClassName=Microcontrolador Member=Component R7 1K 5% 0805
+Added Member To Class: ClassName=Microcontrolador Member=Component U2 LPC5441
+Added Member To Class: ClassName=Control Member=Component U3 MLX91221KDC
+Added Member To Class: ClassName=Control Member=Component U4 IR2110 16
+Added Member To Class: ClassName=Control Member=Component U5 74LVC1G14FW4-7
